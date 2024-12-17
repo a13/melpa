@@ -1,0 +1,1 @@
+(cider-storm :repo "flow-storm/cider-storm" :fetcher github)
